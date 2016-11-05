@@ -1,0 +1,2 @@
+# JavaScript-Patterns
+Stoyan Stefanov
